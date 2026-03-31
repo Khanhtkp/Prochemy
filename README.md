@@ -12,7 +12,7 @@ Generation
 
 
 
-### 💻 Code Generation
+### 💻 Code Completion
 
 #### 0. Automatically Generate Training Set
 
